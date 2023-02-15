@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nikhilij99@gmail.com**
 
-- ⚡ Fun fact **i can repair anything and everything**
+- ⚡ Fun fact **I can repair anything and everything**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikibeep&show_icons=true&locale=en&layout=compact" alt="nikibeep" /></p>
