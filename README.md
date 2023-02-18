@@ -7,8 +7,12 @@
 
 - 💬 Ask me about **hardwares and os**
 
-- 📫 ### Contact me @ <img align="left" alt="Gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/> nikhilij99@gmail.com <img align="left"          alt="Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/> https://discordapp.com/users/georgereD10#4625
+- 📫 ### Contact me
 
+  You can reach out to me via the following channels:
+
+  <img align="left" alt="Gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>[Email](mailto:nikhilij99@gmail.com){:target="_blank" rel="noopener noreferrer"}
+  <img align="left" alt="Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>[Discord](https://discordapp.com/users/georgereD10#4625){:target="_blank" rel="noopener noreferrer"}
       <br />
 
 - ⚡ Fun fact **I can repair anything and everything**
