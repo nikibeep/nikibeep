@@ -7,7 +7,14 @@
 
 - 💬 Ask me about **hardwares and os**
 
-- 📫 How to reach me **nikhilij99@gmail.com**
+- 📫 ### Contact me
+
+      You can reach out to me via the following channels:
+
+      [<img align="left" alt="Gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:nikhilij99@gmail.com)
+      [<img align="left" alt="Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>](https://discordapp.com/users/georgereD10#4625)
+
+<br />
 
 - ⚡ Fun fact **I can repair anything and everything**
 
