@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **hardwares and os**
 
-- 📫 How to reach me 
+- 📫 How to reach me @
 <a style="padding-left: 20px;" href="https://discordapp.com/users/georgereD10#4625" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="discord" height="30" width="30" /></a>
 <a style="padding-left: 20px;" href="mailto:nikhilij99@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" height="30" width="30" /></a>
       <br />
