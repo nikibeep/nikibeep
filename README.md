@@ -7,13 +7,11 @@
 
 - 💬 Ask me about **hardwares and os**
 
-- 📫 ### Contact me
-
-  You can reach out to me via the following channels:
-
-  <p>- 📫 ### Contact me
-  <img align="left" alt="Gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>[Email](mailto:nikhilij99@gmail.com){:target="_blank" rel="noopener noreferrer"}
-  <img align="left" alt="Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>[Discord](https://discordapp.com/users/georgereD10#4625){:target="_blank" rel="noopener noreferrer"}
+- 📫 How to reach me 
+- <h3 align="left">Connect with me:</h3>
+- <p align="left">
+<a href="https://discordapp.com/users/georgereD10#4625" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="discord" height="30" width="40" /></a>
+<a href="mailto:nikhilij99@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" height="30" width="40" /></a>
 </p>
       <br />
 
