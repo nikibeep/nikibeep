@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil George</h1>
-<h3 align="center">A passionate CS student from Bangalore</h3>
+<h3 align="center">「coding frustration」</h3>
 
 - 🌱 I’m currently learning **nodejs**
 
