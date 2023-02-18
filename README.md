@@ -11,9 +11,9 @@
 
       You can reach out to me via the following channels:
 
-      <img align="left" alt="Gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/> (nikhilij99@gmail.com)
+      <img align="left" alt="Gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/> nikhilij99@gmail.com
 
-      <img align="left" alt="Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/> (https://discordapp.com/users/georgereD10#4625)
+      <img align="left" alt="Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/> https://discordapp.com/users/georgereD10#4625
 
       <br />
 
