@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikhil George</h1>
 <h3 align="center">「coding frustration」</h3>
 
-- 🌱 I’m currently learning **nodejs**
+- 🌱 I’m currently learning **IOT**
 
-- 🤝 I’m looking for help with **data analytics**
+- 🤝 I’m looking for help with **Instance Segmentation**
 
 - 💬 Ask me about **hardwares and os**
 
