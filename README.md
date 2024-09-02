@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikhil George</h1>
 <h3 align="center">「coding frustration」</h3>
 
-- 🌱 I’m currently learning **IOT**
+- 🌱 I’m currently learning **Code Optimization**
 
-- 🤝 I’m looking for help with **Instance Segmentation**
+- 🤝 I’m looking for help with **file system**
 
 - 💬 Ask me about **hardwares and os**
 
@@ -12,7 +12,7 @@
 <a style="padding-left: 20px;" href="mailto:nikhilij99@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" height="30" width="28" /></a>
       <br />
 
-- ⚡ Fun fact **I can repair anything and everything**
+- ⚡ Fun fact **I can resourceful and tech witty**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikibeep&show_icons=true&locale=en&layout=compact" alt="nikibeep" /></p>
