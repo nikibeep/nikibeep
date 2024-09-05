@@ -12,7 +12,7 @@
 <a style="padding-left: 20px;" href="mailto:nikhilij99@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" height="30" width="28" /></a>
       <br />
 
-- ⚡ Fun fact **I can resourceful and tech witty**
+- ⚡ Fun fact **resourceful and tech witty**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikibeep&show_icons=true&locale=en&layout=compact" alt="nikibeep" /></p>
